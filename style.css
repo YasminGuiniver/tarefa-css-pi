@@ -1,0 +1,31 @@
+.divMae{
+    background-color: #716bc5;
+    width: 1000px;
+    height: 1000px;
+}
+
+.divFilho{
+    background-color: #c9138c86;
+    height: 60%;
+    width: 60%;
+}
+
+.paragrafoFilho{
+    color: #000000;
+    background-color: rgb(182, 83, 1);
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: bold;
+}
+
+.divD{
+    width: 90%;
+    height: 90vh;
+    background-color: rgb(162, 0, 255);
+}
+
+.filhaD{
+    width: 15vh;
+    height: 15%;
+    background-color: rgb(0, 61, 85);
+}
